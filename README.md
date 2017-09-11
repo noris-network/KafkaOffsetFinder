@@ -41,4 +41,4 @@ source into your project.
 
 ## License
 
-This does not have a license yet.
+Apache License 2.0
